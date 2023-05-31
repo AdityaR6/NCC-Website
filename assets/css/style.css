@@ -1276,6 +1276,11 @@ section {
 /*--------------------------------------------------------------
 # Team
 --------------------------------------------------------------*/
+.row{
+  display: flex;
+  justify-content: center;
+}
+
 .team .member {
   margin-bottom: 20px;
   overflow: hidden;
