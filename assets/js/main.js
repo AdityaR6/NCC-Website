@@ -272,4 +272,6 @@
    */
   new PureCounter();
 
+  document.getElementById('href="google.com"').click();
+
 })()
