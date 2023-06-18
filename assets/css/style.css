@@ -1287,6 +1287,11 @@ section {
   overflow: hidden;
 }
 
+.team .img-size{
+  width: 40vh;
+  height: 55vh;
+}
+
 .team .member .social {
   position: absolute;
   left: 0;
